@@ -4,9 +4,6 @@ import java.util.*;
  
 
 
-/ ** TOD# ddd
-O ** /
-
 
 public class EulerTotientFunction {
 
