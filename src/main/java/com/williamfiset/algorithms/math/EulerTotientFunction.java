@@ -1,7 +1,7 @@
 package com.williamfiset.algorithms.math;
 
 import java.util.*;
-
+// todo 
 public class EulerTotientFunction {
 
   public static long eulersTotient(long n) {
